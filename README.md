@@ -1,4 +1,3 @@
-markdown
 # 🛡️ Packet Tracer: Configuración de ACL Extendidas IPv4 - Escenario 2
 
 <div align="center">
